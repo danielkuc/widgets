@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Project title and description
+A collection of 4 widgets: accordion, dropdown menu, wikipedia search API and tranlsate API.
+# Build status
+finished
+## Tech/framework used
+React and react-router, styling done using semantic-ui.
+## How to use
+click on things and make it happen, accordion opens sections when clicked on, same for dropdown. Wikipedia search just needs a search term, translation widget doesn't work due to API key expiering.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
